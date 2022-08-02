@@ -1,0 +1,16 @@
+Mayuk, I thought about making this file so that if we make changes to the website anytime, then we can write that here.
+
+I was trying to add background image, I added it... but it was very eww and yucky so i removed it...
+Also I revised html and next time we code together we will be rocking...
+
+DHAMAKA NOTE: Upar dekho url jaha likhte hain, waha ek button hoga right side mei jisme laptop mei down arrow bana hoga, usse tum replit ko pc pe as a browser based app install kar sakte ho... Maja aajayega
+
+Jab bhi mei replit kholta hoon mera man kehta hai ki kaash mayuk online hota
+\
+
+CUSTOM SCROLLBAR--
+https://www.youtube.com/watch?v=HkSpQVjrR5s
+
+
+MAYUK'S UP ARROW ICON--
+https://friconix.com/png/fi-cnsuxt-arrow-simple.png
